@@ -1,0 +1,10 @@
+*All_That_Acid.uasset filter=lfs diff=lfs merge=lfs -text
+*Bring_The_Madness.uasset filter=lfs diff=lfs merge=lfs -text
+*Bring_The_Thunder.uasset filter=lfs diff=lfs merge=lfs -text
+*Dealer.uasset filter=lfs diff=lfs merge=lfs -text
+*Hide_And_Seek.uasset filter=lfs diff=lfs merge=lfs -text
+*Nuclear.uasset filter=lfs diff=lfs merge=lfs -text
+*Roses.uasset filter=lfs diff=lfs merge=lfs -text
+*StarLight.uasset filter=lfs diff=lfs merge=lfs -text
+*Tokyo_Drifting.uasset filter=lfs diff=lfs merge=lfs -text
+*.umap filter=lfs diff=lfs merge=lfs -text
